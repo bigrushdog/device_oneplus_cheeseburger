@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_cheeseburger.mk
+    $(LOCAL_DIR)/aquarios_cheeseburger.mk
